@@ -1,3 +1,4 @@
+# Introduction to Information Security
 An introduction to the fundamentals of computer and information security. 
 This course focuses on algorithms and techniques used to defend against malicious software. 
 Topics include an introduction to encryption systems, operating system security, database security, 
