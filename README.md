@@ -7,3 +7,4 @@ Everything—and I mean everything—was done last minute, like giving my Visa i
 I was scrambling to find the rightful owner and locate my own bag containing my passport, visa, boarding pass, and all other important documents on a cold, chilly morning around 2:00 AM at India's not-so-busy Indira Gandhi International Airport, Delhi—all alone and stranded with a random passenger’s bag.
 <br><br>
 I don’t know how, but somehow I ended up at O'Hare Airport on August 16, 2022.
+<br>Thank you for time and stopping by. I hope you find what you're looking for. 
