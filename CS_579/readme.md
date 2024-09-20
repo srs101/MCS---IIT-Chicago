@@ -1,3 +1,8 @@
 # Deep Learning
-## Course Despcription
+I took this course under Prof. Gady Agam for Fall 22. This was one of the most cahllenging corses I took at IIT Chicago.
+This was also the course which provided me with the opportunity to grow not only as a student but as well as a person.
+I gained a lot of knowlegde about math, Python, Deep Neural Netrwoks, Tensorflow, Keras, and so much more.
+I met few of the most amazing and skilled people I know in my life, who were kind enough to help me find my footing and share their knowledge and experiences.
+
+## Course Description
 Deep neural networks form an important sub-field of machine learning that is responsible for much of the progress in in cognitive computing in recent years in areas of computer vision, audio processing, and natural language processing. Deep networks can be trained with a single end-to-end model and  bypass the need for traditional task-specific feature engineering. In this way deep learning simplifies learning tasks and allows using developed models to new tasks. Deep networks are suitable for parallel processing implementations and can easily leverage intensive computational resources. The course will focus on mathematical concepts, numerical algorithms, principles, GPU frameworks, and applications of deep learning. Topics include deep feedforward networks, convolutional networks, sequence modeling, and deep generative models with applications to data analysis, computer vision, and natural language processing. Several programming assignments and a project will practice the application of deep learning techniques to actual problems. The course requires sufficient math and programming background but does not require prior knowledge in machine learning.
