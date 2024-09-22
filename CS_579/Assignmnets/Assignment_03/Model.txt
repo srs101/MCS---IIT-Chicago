@@ -1,0 +1,8 @@
+Dataset1: Abalone
+https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data
+
+Dataset2: Computer Hardware
+https://archive.ics.uci.edu/ml/machine-learning-databases/cpu-performance/machine.data
+
+Weights saved in this folder:
+https://drive.google.com/drive/folders/1DzDIsFRlyWGiEq5PI9ct4mBMZo1q9UyT?usp=sharing
