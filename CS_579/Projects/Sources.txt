@@ -1,0 +1,10 @@
+Understanding VDSR: https://www.mathworks.com/help/deeplearning/ug/single-image-super-resolution-using-deep-learning.html 
+CV2 : https://chadrick-kwag.net/cv2-resize-interpolation-methods/ 
+Reference code to understand the working: https://franciscofarinha.ca/post/vdsr_paper/  , https://www.kaggle.com/code/harshraone/super-resolution-using-multi-scale-learning 
+
+Other references:
+https://stackoverflow.com/questions/50760543/error-oom-when-allocating-tensor-with-shape
+https://cloudinary.com/guides/bulk-image-resize/python-image-resize-with-pillow-and-opencv
+https://www.tutorialkart.com/opencv/python/install-opencv-python-with-anaconda/ 
+https://www.programcreek.com/python/example/122026/keras.backend.resize_images
+ 
