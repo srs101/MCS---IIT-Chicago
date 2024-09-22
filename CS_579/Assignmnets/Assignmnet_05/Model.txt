@@ -1,0 +1,7 @@
+Dataset for IMDB:
+https://ai.stanford.edu/~amaas/data/sentiment/
+Dataset for reuters:
+https://archive.ics.uci.edu/ml/machine-learning-databases/reuters21578-mld/reuters21578.tar.gz
+
+Weights:
+https://drive.google.com/drive/folders/12LL_sknH0vcDqs4bY1TJ3d8Rma2cy69x?usp=sharing 
