@@ -1,0 +1,8 @@
+Cats and Dogs dataset:
+https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip
+
+CIFAR-10
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+
+Model and weights link:
+https://drive.google.com/drive/folders/1aAQn0oAhJ6q8ns9bNT9E2vsadX9B74pI?usp=sharing
